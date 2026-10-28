@@ -46,3 +46,4 @@ Read the specific feature documentation file(s) matching the user's request to u
 Whenever you add a new feature, modify a domain rule, change an API route/payload, or add a new page/component in Valsy:
 1. Update the corresponding `backend/features/*.md` or `frontend/features/*.md` (or create a new feature file and index it in `BASE.md` and `README.md`).
 2. Commit the documentation update inside the isolated repository (`A:\Study\Valsy\valsy-knowledge-base`).
+
